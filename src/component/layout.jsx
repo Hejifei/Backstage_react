@@ -18,7 +18,7 @@ class public_Layout  extends React.Component {
             <Row>
               <Col span={8}>
                 <div className="logo">
-                  何必后台管理系统
+                  何小必后台管理系统
                 </div></Col>
               <Col span={8}>
                 <Menu
